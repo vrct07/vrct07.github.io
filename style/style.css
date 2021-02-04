@@ -9,10 +9,10 @@ body {
 
 main {
     background-color: white;
-    width: 560px;
+    width: 450px;
     margin: auto;
     padding: 10%;
-    box-shadow: 3% 3% 4% rgba(0, 0, 0, 0,473);
+    box-shadow: 3% 3% 4%rgba(0, 0, 0, 0.473);
 }
 
 h1 {
@@ -24,6 +24,8 @@ h2 {
     font-size: 1.5em;
     color: rgb(95, 47, 47);
 }
+
+
 
 img.lado {
     float: right;
@@ -37,5 +39,5 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: 
+    color: rgb(95, 47, 47);
 }
