@@ -12,7 +12,7 @@ main {
     width: 560px;
     margin: auto;
     padding: 10%;
-    box-shadow: 4% 4% 5% rgba(0, 0, 0, 0,473);
+    box-shadow: 3% 3% 4% rgba(0, 0, 0, 0,473);
 }
 
 h1 {
@@ -27,6 +27,12 @@ h2 {
 
 img.lado {
     float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(95, 47, 47);
 }
 
 a:hover {
