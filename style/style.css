@@ -50,3 +50,11 @@ a:hover {
     text-decoration: underline;
     color: rgb(95, 47, 47);
 }
+
+article.artigo {
+    text-align: center;
+}
+
+h1#titulo {
+    text-align: center;
+}
