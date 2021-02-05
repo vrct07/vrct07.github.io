@@ -28,7 +28,13 @@ h2 {
     color: rgb(95, 47, 47);
 }
 
+h1.subtitulo {
+    font-size: 1.3em;
+}
 
+h1#sub {
+    font-size: 1.5em;
+}
 
 img.lado {
     float: right;
